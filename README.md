@@ -59,6 +59,15 @@ A comprehensive end-to-end forecasting study using 21 years of daily PM₂.₅ d
 4. **Anchored recovery** — `ŷ(t) = expm1(log_actual(t−1) + Δŷ(t))` prevents drift
 
 ---
+## Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Statsmodels
+- PyTorch
+- Scikit-learn
+- Matplotlib
 
 ## Project Structure
 
