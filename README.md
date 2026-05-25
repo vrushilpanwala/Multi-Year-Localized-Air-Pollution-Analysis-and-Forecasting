@@ -92,6 +92,13 @@ Run each notebook in order. Update `DATA_PATH` at the top of each notebook to po
 
 ---
 
+## Highlights
+
+- 21 years of daily PM₂.₅ data
+- Statistical + Deep Learning comparison
+- Quantile forecasting with calibrated uncertainty intervals
+- Best R²: 0.540 using GRU-Q*
+
 ## References
 
 - Box, G.E.P., Jenkins, G.M., Reinsel, G.C., & Ljung, G.M. (2015). *Time Series Analysis: Forecasting and Control* (5th ed.). Wiley.
